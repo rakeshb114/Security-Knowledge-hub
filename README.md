@@ -288,7 +288,7 @@ whoami /all
 
 ---
 
-**End of Cheatsheet **
+**End of Cheatsheet**
 
 ---
 
